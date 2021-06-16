@@ -1,0 +1,11 @@
+
+const nombre={ 
+  nombre: "Pepa Pig",  
+  nombre:"Bob Esponja",
+  nombre:"Mulán",
+  nombre:"Goku",
+  nombre:"Darcy",
+ 
+}
+
+export default nombre
